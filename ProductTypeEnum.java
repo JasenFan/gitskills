@@ -3,6 +3,7 @@ package com.lixiangxue.enums;
 import com.lixiangxue.enums.ActivitiTypesEnum;
 
 public enum ProductTypeEnum {
+	abc(0,"0",0),
     xyz(4,"4",4),
 	// 二次分期
     CASH(2, "理享+", ActivitiTypesEnum.APPROVE),
