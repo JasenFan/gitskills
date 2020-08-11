@@ -11,7 +11,8 @@ public enum ProductTypeEnum {
     EDU_LOAN(1, "教育分期", ActivitiTypesEnum.LEARN),
 
     IOU(3, "芝士白条", ActivitiTypesEnum.IOU);
-22222222222222222
+	22222222222222222
+	11111111111111111111111
     ProductTypeEnum(int id, String text, ActivitiTypesEnum activitiType) {
         this.id = id;
         this.text = text;
